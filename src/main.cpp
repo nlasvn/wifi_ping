@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include <ESP32Ping.h>
 
-// Ao invés da gente fazer as funções aqui em cima, a gente faz elas lá em baixo
+// Ao invés da gente definir as funções aqui em cima, a gente define elas lá em baixo
 // e faz as declarações aqui, assim elas estarão no escopo quando forem chamadas
 // no setup
 void conectaWiFi();
